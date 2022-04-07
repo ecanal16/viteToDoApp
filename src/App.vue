@@ -6,7 +6,7 @@ import List from "./components/List.vue";
 </script>
 
 <template>
-<div class="min-h-screen bg-slate-500">
+<div class="min-h-screen bg-blue-400">
 <div class="container mx-auto flex flex-col space-y-8 pt-8">
  <Title />
  
